@@ -1,2 +1,1 @@
-# java13-todo-app
-JAVA13-TODO-APP description
+VERSION: TODO-APP-1.0-SNAPSHOT
